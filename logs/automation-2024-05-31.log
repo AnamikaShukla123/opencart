@@ -1,0 +1,49 @@
+16:17:13.102 [main] INFO  testCases.TC_001_AccountRegistrationTest - **** starting TC_001_AccountRegistrationTest  *****
+16:17:13.106 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****application logs Started *****
+16:17:13.185 [main] INFO  testCases.TC_001_AccountRegistrationTest - **** Clicking on My Account*****
+16:17:13.574 [main] INFO  testCases.TC_001_AccountRegistrationTest - **** Clicking on Register*****
+16:17:13.575 [main] INFO  testCases.TC_001_AccountRegistrationTest - Entering customer details.. 
+16:17:17.559 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on continue..
+16:17:17.594 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message..
+17:02:29.502 [main] INFO  testCases.TC_001_AccountRegistrationTest - **** starting TC_001_AccountRegistrationTest  *****
+17:02:29.506 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****application logs Started *****
+17:02:29.609 [main] INFO  testCases.TC_001_AccountRegistrationTest - **** Clicking on My Account*****
+17:02:30.173 [main] INFO  testCases.TC_001_AccountRegistrationTest - **** Clicking on Register*****
+17:02:30.174 [main] INFO  testCases.TC_001_AccountRegistrationTest - Entering customer details.. 
+17:02:34.331 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on continue..
+17:02:34.371 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message..
+17:03:29.872 [main] INFO  testCases.TC_001_AccountRegistrationTest - **** starting TC_001_AccountRegistrationTest  *****
+17:03:29.879 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****application logs Started *****
+17:03:30.227 [main] INFO  testCases.TC_001_AccountRegistrationTest - **** Clicking on My Account*****
+17:03:30.941 [main] INFO  testCases.TC_001_AccountRegistrationTest - **** Clicking on Register*****
+17:03:30.942 [main] INFO  testCases.TC_001_AccountRegistrationTest - Entering customer details.. 
+17:03:35.006 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on continue..
+17:03:35.049 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message..
+17:11:31.140 [main] INFO  testCases.TC_001_AccountRegistrationTest - **** starting TC_001_AccountRegistrationTest  *****
+17:11:31.150 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****application logs Started *****
+17:11:31.348 [main] INFO  testCases.TC_001_AccountRegistrationTest - **** Clicking on My Account*****
+17:11:31.953 [main] INFO  testCases.TC_001_AccountRegistrationTest - **** Clicking on Register*****
+17:11:31.954 [main] INFO  testCases.TC_001_AccountRegistrationTest - Entering customer details.. 
+17:11:36.316 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on continue..
+17:11:36.364 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message..
+17:11:44.062 [main] INFO  testCases.TC_001_AccountRegistrationTest - **** starting TC_001_AccountRegistrationTest  *****
+17:11:44.063 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****application logs Started *****
+17:11:44.252 [main] INFO  testCases.TC_001_AccountRegistrationTest - **** Clicking on My Account*****
+17:11:45.061 [main] INFO  testCases.TC_001_AccountRegistrationTest - **** Clicking on Register*****
+17:11:45.061 [main] INFO  testCases.TC_001_AccountRegistrationTest - Entering customer details.. 
+17:11:49.167 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on continue..
+17:11:49.211 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message..
+17:14:00.657 [main] INFO  testCases.TC_001_AccountRegistrationTest - **** starting TC_001_AccountRegistrationTest  *****
+17:14:00.662 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****application logs Started *****
+17:14:00.838 [main] INFO  testCases.TC_001_AccountRegistrationTest - **** Clicking on My Account*****
+17:14:01.345 [main] INFO  testCases.TC_001_AccountRegistrationTest - **** Clicking on Register*****
+17:14:01.346 [main] INFO  testCases.TC_001_AccountRegistrationTest - Entering customer details.. 
+17:14:05.429 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on continue..
+17:14:05.459 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message..
+17:14:15.032 [main] INFO  testCases.TC_001_AccountRegistrationTest - **** starting TC_001_AccountRegistrationTest  *****
+17:14:15.032 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****application logs Started *****
+17:14:15.171 [main] INFO  testCases.TC_001_AccountRegistrationTest - **** Clicking on My Account*****
+17:14:15.899 [main] INFO  testCases.TC_001_AccountRegistrationTest - **** Clicking on Register*****
+17:14:15.899 [main] INFO  testCases.TC_001_AccountRegistrationTest - Entering customer details.. 
+17:14:20.132 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on continue..
+17:14:20.197 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message..
